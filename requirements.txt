@@ -1,0 +1,2 @@
+requests-respectful
+pygame
